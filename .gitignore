@@ -1,0 +1,16 @@
+# Backend (Node.js)
+backend/node_modules/
+backend/.env
+backend/dist
+backend/logs
+*.log
+
+# UI (Angular)
+compliance-ui/node_modules/
+compliance-ui/dist/
+compliance-ui/.angular/
+
+# Common
+npm-debug.log*
+.DS_Store
+Thumbs.db
